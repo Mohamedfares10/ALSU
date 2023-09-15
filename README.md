@@ -9,6 +9,7 @@
 <p align="center">
   <img width="600" height="400" src="https://github.com/Mohamedfares10/2_Sequance_Detector_Checker/assets/132834702/b0b56fce-dfb1-4fa4-8243-0b60add93c02">
 </p>
+
 ## Synthesizing:
 <p align="center">
   <img width="600" height="400" src="https://github.com/Mohamedfares10/2_Sequance_Detector_Checker/assets/132834702/8d6ba962-fbf8-49c8-952b-f1a84ff3ac9c">
